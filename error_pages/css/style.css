@@ -240,7 +240,7 @@ header h1 {
 }
 
 header h2 {
-  color: #7BC876;
+  color: #e4c049;
   font-size: 20px;
   font-style: italic;
   font-weight: 400;
@@ -447,7 +447,7 @@ section.versus .game {
 
 .example {
   padding:50px 0 0 0;
-  color:#7BC876;
+  color:#e4c049;
   position:relative
 }
 
@@ -466,7 +466,7 @@ section.versus .game {
   text-align:left;
   margin-left:55px;
   font-size:14px;
-  color:#7BC876;
+  color:#e4c049;
   line-height:20px
 }
 
@@ -501,7 +501,7 @@ section.versus .game {
   left:100%;
   bottom:3px;
   border:none;
-  background:#7BC876;
+  background:#e4c049;
   color:#000;
   text-transform:uppercase;
   font-weight:bold;
@@ -539,7 +539,7 @@ section.versus .game {
 }
 
 .example .instructions .key {
-  border:1px solid #7BC876;
+  border:1px solid #e4c049;
   display:block;
   width:38px;
   height:33px;
@@ -622,7 +622,7 @@ section.versus .game {
   position:absolute;
   right:100%;
   margin-right:20px;
-  color:#7BC876;
+  color:#e4c049;
   font-size:20px;
   text-align:right;
   line-height:20px
@@ -635,7 +635,7 @@ section.versus .game {
 }
 
 #versus-arena .blockrain-score-holder {
-  color:#7BC876;
+  color:#e4c049;
   line-height:20px
 }
 

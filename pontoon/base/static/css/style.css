@@ -22,7 +22,7 @@
 }
 
 .translated .status.fa:before {
-  color: #7BC876;
+  color: #7bc876;
 }
 
 .fuzzy .status.fa:before {
@@ -88,7 +88,7 @@ h2 {
 }
 
 h3 {
-  color: #7BC876;
+  color: #e4c049;
   font-size: 26px;
   font-weight: 300;
   font-style: italic;
@@ -113,13 +113,13 @@ a:visited {
 
 a:hover,
 a:active {
-  color: #7BC876;
+  color: #e4c049;
   text-decoration: none;
 }
 
 sup a:link,
 sup a:visited {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 input[type=text],
@@ -346,7 +346,7 @@ tfoot td a {
 
 #go.active,
 #go:hover {
-  background: #7BC876;
+  background: #e4c049;
   color: #272A2F;
 }
 
@@ -445,7 +445,7 @@ tfoot td a {
 }
 
 .select .menu ul li .chart span.translated {
-  background: #7BC876;
+  background: #e4c049;
 }
 
 .select .menu ul li .chart span.fuzzy {
@@ -471,7 +471,7 @@ tfoot td a {
 }
 
 .select .menu ul li .latest a {
-  color: #7BC876;
+  color: #e4c049;
   display: inline-block;
 }
 
@@ -576,14 +576,14 @@ tfoot td a {
 }
 
 .locale .code {
-  color: #7BC876;
+  color: #e4c049;
   text-align: left;
 }
 
 .notification {
   background: rgba(51, 57, 65, 0.9);
-  color: #7BC876;
   cursor: pointer;
+  color: #e4c049;
   font-style: italic;
   left: 0;
   margin: 0;
@@ -623,7 +623,7 @@ img.rounded {
 }
 
 .details div.translated {
-  border-color: #7BC876;
+  border-color: #e4c049;
 }
 
 .details div.fuzzy {
@@ -980,7 +980,7 @@ nav .links li {
 
 .links li a:hover,
 .links li a:active {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 .submenu.tabs {
@@ -998,7 +998,7 @@ nav .links li {
 .submenu .links li.active a,
 .submenu .links a:hover,
 .submenu .links a:active {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 .submenu.tabs .links {
@@ -1071,7 +1071,7 @@ noscript p {
 }
 
 #subtitle, #subtitle a {
-  color: #7BC876;
+  color: #e4c049;
   font-size: 32px;
   font-style: italic;
   text-transform: none;
@@ -1086,7 +1086,7 @@ noscript p {
 }
 
 #action #link {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 body > form,
@@ -1114,7 +1114,7 @@ body > form,
 }
 
 .check-box.enabled .fa:before {
-  color: #7BC876;
+  color: #e4c049;
   content: "";
 }
 
@@ -1140,7 +1140,7 @@ body > form,
 }
 
 #helpers > section ul li > header .stress {
-  color: #7BC876;
+  color: #e4c049;
   padding-left: 3px;
   padding-right: 3px;
 }
@@ -1150,7 +1150,7 @@ body > form,
 }
 
 #helpers > section.machinery ul li > header sup {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #helpers > section.machinery ul li > header .sources  {
@@ -1294,7 +1294,7 @@ body > form,
 .controls a.button:hover,
 .controls li.active a.button,
 .controls .button.active {
-  background: #7BC876;
+  background: #e4c049;
   color: #272A2F;
 }
 
@@ -1349,7 +1349,7 @@ body > form,
 }
 
 .priority .fa-star.active {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 .container .info {
@@ -1367,5 +1367,5 @@ body > form,
 }
 
 .container .info a {
-  color: #7BC876;
+  color: #e4c049;
 }

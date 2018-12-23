@@ -1189,13 +1189,13 @@ var Pontoon = (function (my) {
               hover: {
                 fill: 'none',
                 style: {
-                  color: '#7BC876'
+                  color: '#e4c049'
                 }
               },
               select: {
                 fill: 'none',
                 style: {
-                  color: '#7BC876',
+                  color: '#e4c049',
                   fontWeight: 300,
                 }
               },
@@ -1219,7 +1219,7 @@ var Pontoon = (function (my) {
           },
           series: {
             type: "column",
-            color: '#7BC876'
+            color: '#e4c049'
           },
           xAxis: {
             lineWidth: 1,

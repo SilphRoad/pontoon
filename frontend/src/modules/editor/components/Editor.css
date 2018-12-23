@@ -41,12 +41,12 @@
 }
 
 .editor .actions button:hover {
-    color: #7BC876;
+    color: #e4c049;
 }
 
 .editor .actions .action-save,
 .editor .actions .action-suggest {
-    background: #7BC876;
+    background: #e4c049;
     border-radius: 3px;
     color: #272A2F;
     font-weight: 600;

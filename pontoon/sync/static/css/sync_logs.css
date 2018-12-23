@@ -18,7 +18,7 @@
 }
 
 .sync-log .start-time a {
-    color: #7BC876;
+    color: #e4c049;
 }
 
 
@@ -65,7 +65,7 @@ td {
 }
 
 .command-details .start-time {
-    border-color: #7BC876;
+    border-color: #e4c049;
 }
 
 .command-details .end-time {
@@ -78,7 +78,7 @@ td {
 
 .project-details .start-time .detail-label,
 .repository-details .start-time .detail-label {
-    color: #7BC876;
+    color: #e4c049;
 }
 
 .project-details .end-time .detail-label,

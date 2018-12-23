@@ -103,8 +103,8 @@ window.BlockrainThemes = {
   'pontoon': {
     background: '#333941',
     backgroundGrid: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAIAAAC0Ujn1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADxJREFUeNpiNLZ0ZKANYGKgGRg1etToUaNHgNEsRKrz6DeFs3cUnh4NazIA42hVMGr0qNGjRg9OowECDAAz1QSX9DwBSQAAAABJRU5ErkJggg==',
-    primary: '#7BC876',
-    secondary: '#7BC876',
+    primary: '#e4c049',
+    secondary: '#e4c049',
     stroke: '#333941',
     strokeWidth: 3,
     innerStroke: null

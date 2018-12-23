@@ -86,7 +86,7 @@ mark.search {
 }
 
 .no-match div  {
-  color: #7BC876;
+  color: #e4c049;
   display: block;
   font-size: 128px;
   margin-bottom: 20px;
@@ -117,7 +117,7 @@ mark.search {
 }
 
 #project-load .animation > div {
-  background-color: #7BC876;
+  background-color: #e4c049;
   height: 100%;
   width: 12px;
   display: inline-block;
@@ -271,7 +271,7 @@ body > header .locale.select {
 .menu ul li.current,
 .menu .static-links .all-projects.current,
 .menu .static-links .all-resources.current {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 .part .menu ul li {
@@ -281,7 +281,7 @@ body > header .locale.select {
 
 .part.select .menu ul li > span:nth-child(2),
 .menu .static-links .percent {
-  color: #7BC876;
+  color: #e4c049;
   float: right;
 }
 
@@ -315,7 +315,7 @@ body > header .locale.select {
 }
 
 .translated .status:before {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 .fuzzy .status:before {
@@ -506,7 +506,7 @@ body > header .notification.hide {
 }
 
 #info .menu a {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 body > header .select aside.menu {
@@ -616,7 +616,7 @@ body > header aside p {
 
 #entitylist .loading {
   display: none;
-  color: #7BC876;
+  color: #e4c049;
   font-size: 128px;
   padding: 40px 0 10px;
   text-align: center;
@@ -707,7 +707,7 @@ body > header aside p {
 #filter .menu li.horizontal-separator {
   background: transparent;
   border-top: none;
-  color: #7BC876;
+  color: #e4c049;
   cursor: default;
   font-size: 13px;
   height: auto;
@@ -736,7 +736,7 @@ body > header aside p {
 }
 
 #filter .menu li.horizontal-separator button:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 /* Remove extra padding in Firefox button */
@@ -876,7 +876,7 @@ body > header aside p {
 }
 
 .ui-datepicker .ui-datepicker-header .ui-corner-all:hover span {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 .ui-datepicker .ui-datepicker-header .ui-corner-all.ui-datepicker-prev span:before {
@@ -892,7 +892,7 @@ body > header aside p {
 }
 
 #ui-datepicker-div th {
-  color: #7BC876;
+  color: #e4c049;
   font-weight: normal;
   text-transform: uppercase;
 }
@@ -916,8 +916,8 @@ body > header aside p {
 }
 
 #ui-datepicker-div td a.ui-state-active {
-  border-color: #7BC876;
-  color: #7BC876;
+  border-color: #e4c049;
+  color: #e4c049;
 }
 
 #ui-datepicker-div td.ui-state-disabled {
@@ -1025,7 +1025,7 @@ body > header aside p {
 }
 
 #filter .apply-selected:hover, #filter .apply-selected .applied-count {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #filter .apply-selected .variant .plural,
@@ -1320,7 +1320,7 @@ body > header aside p {
 }
 
 #sidebar .topbar a:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #sidebar .topbar a .fa {
@@ -1361,7 +1361,7 @@ body > header aside p {
 }
 
 #metadata .content a {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #screenshots {
@@ -1401,7 +1401,7 @@ body > header aside p {
 }
 
 #source-pane mark.placeable:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #editor nav ul {
@@ -1447,7 +1447,7 @@ body > header aside p {
 }
 
 #editor nav li a > span > .count > .preferred {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #editor textarea {
@@ -1511,7 +1511,7 @@ body > header aside p {
 .ftl-area button {
   background: transparent;
   border: none;
-  color: #7BC876;
+  color: #e4c049;
   font-size: 12px;
   margin-left: 3px;
   padding: 0;
@@ -1551,11 +1551,11 @@ body > header aside p {
 }
 
 .ftl-area section .id .stress {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 .ftl-area section .id sub {
-  color: #7BC876;
+  color: #e4c049;
   float: right;
   font-size: 11px;
   margin-top: 4px;
@@ -1621,7 +1621,7 @@ body > header aside p {
 
 .ftl-area .accesskeys div.active,
 .ftl-area .accesskeys div:hover {
-  border-color: #7BC876;
+  border-color: #e4c049;
 }
 
 #ftl-area .templates {
@@ -1650,7 +1650,7 @@ body > header aside p {
 }
 
 .ftl-area section .remove:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #plural-tabs ul li {
@@ -1665,7 +1665,7 @@ body > header aside p {
 }
 
 #plural-tabs ul li a sup {
-  color: #7BC876;
+  color: #e4c049;
   font-size: 11px;
   font-weight: 400;
   padding-left: 1px;
@@ -1758,7 +1758,7 @@ body > header aside p {
 
 #editor #single #ftl.active,
 #editor #single #ftl:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #translation-length {
@@ -1809,7 +1809,7 @@ body > header aside p {
 }
 
 #editor #single > menu > .write > .select .selector:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #hotkeys .menu {
@@ -1872,7 +1872,7 @@ body > header aside p {
 
 #editor #single > menu button[id^="save"],
 #editor #single > menu button#leave-anyway {
-  background: #7BC876;
+  background: #e4c049;
   border-radius: 3px;
   color: #272A2F;
   font-weight: 600;
@@ -1901,7 +1901,7 @@ body > header aside p {
 }
 
 #editor #single > menu button#save-anyway.suggest.approve {
-  background: #7BC876;
+  background: #e4c049;
 }
 
 #save-anyway.approve:before {
@@ -1914,7 +1914,7 @@ body > header aside p {
 }
 
 #editor #single > menu p.banner > a {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #editor #single > menu button#leave-anyway {
@@ -1923,7 +1923,7 @@ body > header aside p {
 }
 
 #editor #single > menu button:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #editor #single > menu button[id^="save"]:hover {
@@ -1991,7 +1991,7 @@ body > header aside p {
 }
 
 #helpers > section ul li.preferred {
-  border-bottom-color: #7BC876;
+  border-bottom-color: #e4c049;
 }
 
 #helpers > section ul li > header .info {
@@ -2003,7 +2003,7 @@ body > header aside p {
 }
 
 #helpers > section ul li > header .toggle-diff.active {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #helpers > section ul li > header .toolbar {
@@ -2063,7 +2063,7 @@ body > header aside p {
 
 #helpers > section ul li > header button.approve:hover:before,
 #helpers > section ul li > header button.unapprove:before {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #helpers > section ul li > header button.approve:not(:hover):before,
@@ -2143,7 +2143,7 @@ body > header aside p {
 }
 
 #sidebar .batch-bar .selected-count {
-  color: #7BC876;
+  color: #e4c049;
 }
 
 #sidebar .batch-bar .variant .plural,
@@ -2192,7 +2192,7 @@ body > header aside p {
 }
 
 #batch button {
-  background: #7BC876;
+  background: #e4c049;
   border: none;
   border-radius: 3px;
   color: #272A2F;

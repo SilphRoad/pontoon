@@ -14,16 +14,16 @@
 		<rect x="0" y="0" fill="#FFFFFF" width="120" height="120"/>
 		<g>
 			
-				<line fill="none" stroke="#7BC876" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" x1="36.7" y1="31.6" x2="104.4" y2="31.6"/>
+				<line fill="none" stroke="#e4c049" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" x1="36.7" y1="31.6" x2="104.4" y2="31.6"/>
 			
 				<line fill="none" stroke="#E0E0E0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" x1="36.7" y1="59.8" x2="104.4" y2="59.8"/>
 			
 				<line fill="none" stroke="#E0E0E0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" x1="36.7" y1="88.4" x2="104.4" y2="88.4"/>
-			<circle fill="#7BC876" cx="20.1" cy="31.6" r="4.5"/>
+			<circle fill="#e4c049" cx="20.1" cy="31.6" r="4.5"/>
 			<circle fill="#EEEEEE" cx="20.1" cy="59.8" r="4.5"/>
 			<circle fill="#EEEEEE" cx="20.1" cy="88.4" r="4.5"/>
 			
-				<line fill="none" stroke="#7BC876" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" x1="35" y1="59.8" x2="76.2" y2="59.8"/>
+				<line fill="none" stroke="#e4c049" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" x1="35" y1="59.8" x2="76.2" y2="59.8"/>
 		</g>
 	</g>
 </g>
