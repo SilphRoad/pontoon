@@ -402,7 +402,9 @@ class VCSProject(object):
             return source_repository.checkout_path
 
         possible_sources = []
+        print(self.checkout_path)
         for root, dirnames, filenames in scandir.walk(self.checkout_path):
+            print(dirnames)
             for dirname in dirnames:
                 if dirname in self.SOURCE_DIR_NAMES:
                     score = self.SOURCE_DIR_SCORES[dirname]
