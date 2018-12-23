@@ -70,7 +70,7 @@ h2 {
 }
 
 #main .button.primary {
-  background-color: #7BC876;
+  background-color: #e4c049;
   color: #FFFFFF;
 }
 
@@ -97,7 +97,7 @@ h2 {
 }
 
 #fp-nav ul li a.active span {
-  background: #7BC876;
+  background: #e4c049;
 }
 
 /* Section-1 */
@@ -148,8 +148,8 @@ h2 {
 
 #section-1 .scroll:after {
   content: '';
-  border-right: 2px solid #7BC876;
-  border-bottom: 2px solid #7BC876;
+  border-right: 2px solid #e4c049;
+  border-bottom: 2px solid #e4c049;
   width: 30px;
   height: 30px;
   position: absolute;
@@ -192,7 +192,7 @@ h2 {
   margin-top: 40px;
   width: 2px;
   height: 290px;
-  background-color: #7BC876;
+  background-color: #e4c049;
 }
 
 #section-3 ol {
@@ -213,7 +213,7 @@ h2 {
 
 #section-3 li:before {
   background-color: #272A2F;
-  border: 2px solid #7BC876;
+  border: 2px solid #e4c049;
   border-radius: 100%;
   color: #FFFFFF;
   content: counter(item);
@@ -228,7 +228,7 @@ h2 {
 }
 
 #section-3 .checkmark {
-  background-color: #7BC876;
+  background-color: #e4c049;
   border-radius: 100%;
   width: 54px;
   height: 39px;
@@ -255,7 +255,7 @@ h2 {
 }
 
 #section-4 .box .box-image {
-  color: #7BC876;
+  color: #e4c049;
   font-size: 35px;
   margin-bottom: 10px;
 }
@@ -324,5 +324,5 @@ h2 {
 }
 
 #section-6 .footer a:hover {
-  color: #7BC876;
+  color: #e4c049;
 }
