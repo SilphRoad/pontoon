@@ -56,6 +56,7 @@ class VCSProject(object):
     pulled from a remote VCS.
     """
     SOURCE_DIR_SCORES = {
+        'Locale': 3,
         'templates': 3,
         'en-US': 2,
         'en-us': 2,
