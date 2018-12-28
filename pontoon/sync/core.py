@@ -320,7 +320,7 @@ def commit_changes(db_project, vcs_project, changeset, locale):
     if len(authors) > 0:
         commit_author = Counter(authors).most_common(1)[0][0]
     else:
-        commit_author = User(first_name="Mozilla Pontoon", email="pontoon@mozilla.com")
+        commit_author = User(first_name="Silph Bot", email="marco+bot@thesilphroad.com")
 
     commit_message = render_to_string('sync/commit_message.jinja', {
         'locale': locale,

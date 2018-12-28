@@ -241,7 +241,7 @@ def request_item(request, locale=None):
         EmailMessage(
             subject=mail_subject,
             body=mail_body,
-            from_email='pontoon@mozilla.com',
+            from_email='translate@thesilphroad.com',
             to=settings.PROJECT_MANAGERS,
             cc=locale.managers_group.user_set.exclude(pk=user.pk)
             .values_list('email', flat=True) if locale else '',

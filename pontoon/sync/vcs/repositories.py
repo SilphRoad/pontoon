@@ -151,8 +151,8 @@ class CommitToGit(CommitToRepository):
         author = user.display_name_and_email
 
         # Embed git identity info into commands
-        git_cmd = ['git', '-c', 'user.name=Mozilla Pontoon', '-c',
-                   'user.email=pontoon@mozilla.com']
+        git_cmd = ['git', '-c', 'user.name=Silph Bot', '-c',
+                   'user.email=marco+bot@thesilphroad.com']
 
         # Add new and remove missing paths
         execute(git_cmd + ['add', '-A', '--', path], path)
