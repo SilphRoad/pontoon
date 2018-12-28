@@ -45,6 +45,9 @@ class UserAdmin(AuthUserAdmin):
         """
         Save a user and log changes in its roles.
         """
+        if not obj.id:
+            return super(UserAdmin, self).save_model(request, obj, form, change)
+
         add_groups, remove_groups = utils.get_m2m_changes(
             obj.groups,
             form.cleaned_data['groups']
