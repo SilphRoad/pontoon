@@ -711,7 +711,7 @@ header nav .right .sign-in-header {
 }
 
 header nav .right .sign-in-header .button {
-  border: 1.5px solid #7BC176;
+  border: 1.5px solid #e4c049;
   color: white;
   border-radius: 2px;
   padding: 10px 25px;
@@ -720,7 +720,7 @@ header nav .right .sign-in-header .button {
 }
 
 header nav .right .sign-in-header .button:hover {
-    background-color: #7BC176;
+    background-color: #e4c049;
 }
 
 header .select .menu {
