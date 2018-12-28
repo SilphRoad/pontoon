@@ -56,13 +56,8 @@ class VCSProject(object):
     pulled from a remote VCS.
     """
     SOURCE_DIR_SCORES = {
-        'Locale': 3,
         'templates': 3,
-        'en-US': 2,
-        'en-us': 2,
-        'en_US': 2,
-        'en_us': 2,
-        'en': 1
+        'Locale': 2,
     }
     SOURCE_DIR_NAMES = SOURCE_DIR_SCORES.keys()
 
