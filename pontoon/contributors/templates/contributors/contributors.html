@@ -28,7 +28,8 @@
           {{ HeadingInfo.details_item(
             title='Name',
             class='name',
-            value=top_contributor.name_or_email)
+            value=top_contributor.name_or_email,
+            value_link=url('pontoon.contributors.contributor.username', top_contributor.username))
           }}
           {{ HeadingInfo.details_item(
             title='Role',
