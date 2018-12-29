@@ -28,8 +28,7 @@
           {{ HeadingInfo.details_item(
             title='Name',
             class='name',
-            value=top_contributor.name_or_email,
-            value_link=url('pontoon.contributors.contributor.username', top_contributor.username))
+            value=top_contributor.name_or_email)
           }}
           {{ HeadingInfo.details_item(
             title='Role',
@@ -49,9 +48,7 @@
         </ul>
 
         <div class="progress">
-          <a href="{{ url('pontoon.contributors.contributor.username', top_contributor.username) }}">
-            <img class="rounded" src="{{ top_contributor.gravatar_url(126) }}" height="126" width="126">
-          </a>
+          <img class="rounded" src="{{ top_contributor.gravatar_url(126) }}" height="126" width="126">
         </div>
 
         <ul class="legend">
